@@ -16,6 +16,6 @@ Test Gmail Compose functionality and send an email with:
 
 ## Repository Contents
 
-* Gmail_Compose_TestCases.xlsx
+* Gmail_Compose_90_Detailed_TestCases.xlsx
 
 Submitted as part of the QA Assessment.
